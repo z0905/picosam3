@@ -12,16 +12,18 @@
 ---
 ## References & Citation ✉️ 
 
-This is the code base to reproduce results of the following article :
+This repository reproduces the results from our article, which received the Outstanding Lecture Award at IEEE Sensors 2025 in Vancouver.
+Until the official IEEE reference is available, please cite the arXiv version:
 ``` 
-@article{bonazzi2025picosam2lowlatencysegmentationinsensor,
+@misc{bonazzi2025picosam2lowlatencysegmentationinsensor,
       title={PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications}, 
       author={Pietro Bonazzi and Nicola Farronato and Stefan Zihlmann and Haotong Qin and Michele Magno},
       year={2025},
-      month={November},
-      journal={IEEE Sensors}
+      eprint={2506.18807},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.18807}, 
 }
-
 ```
 
 Leave a star to support our open source initiative!⭐️ 

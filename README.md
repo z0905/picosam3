@@ -10,6 +10,21 @@
 >  Distilled from SAM2.1 Hiera Tiny
 
 ---
+## References & Citation ✉️ 
+
+This is the code base to reproduce results of the following article :
+``` 
+@article{bonazzi2025picosam2lowlatencysegmentationinsensor,
+      title={PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications}, 
+      author={Pietro Bonazzi and Nicola Farronato and Stefan Zihlmann and Haotong Qin and Michele Magno},
+      year={2025},
+      month={November},
+      journal={IEEE Sensors}
+}
+
+```
+
+Leave a star to support our open source initiative!⭐️ 
 
 ## Quick Start
 

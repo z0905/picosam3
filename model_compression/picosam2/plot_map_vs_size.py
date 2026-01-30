@@ -39,7 +39,7 @@ results = [
 
     # PicoSAM3 variants (5.26 MB float32, 1.31 MB int8)
     {"name": "PicoSAM3 (D-SAM3)", "family": "PicoSAM3", "coco_map": 0.4377, "lvis_map": 0.4334, "size": 5.26, "offset": (8, 0, 'left', 'center')},
-    {"name": "PicoSAM3 (DQ-SAM3)", "family": "PicoSAM3", "coco_map": 0.4364, "lvis_map": None, "size": 1.31, "offset": (8, 0, 'left', 'center')},
+    {"name": "PicoSAM3 (DQ-SAM3)", "family": "PicoSAM3", "coco_map": 0.4364, "lvis_map": 0.4331, "size": 1.31, "offset": (8, 0, 'left', 'center')},
 ]
 
 # Color palette - visually distinct and colorblind-friendly

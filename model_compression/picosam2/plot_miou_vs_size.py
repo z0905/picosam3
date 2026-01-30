@@ -37,7 +37,7 @@ results = [
     {"name": "PicoSAM2 (D-SAM3)", "family": "PicoSAM2", "coco_miou": 0.6351, "lvis_miou": 0.6231, "size": 4.84, "offset": (0, 12, 'center', 'bottom')},
     # PicoSAM3 variants
     {"name": "PicoSAM3 (D-SAM3)", "family": "PicoSAM3", "coco_miou": 0.6545, "lvis_miou": 0.6401, "size": 5.26, "offset": (8, 0, 'left', 'center')},
-    {"name": "PicoSAM3 (DQ-SAM3)", "family": "PicoSAM3", "coco_miou": 0.6534, "lvis_miou": None, "size": 1.31, "offset": (8, 0, 'left', 'center')},
+    {"name": "PicoSAM3 (DQ-SAM3)", "family": "PicoSAM3", "coco_miou": 0.6534, "lvis_miou": 0.6398, "size": 1.31, "offset": (8, 0, 'left', 'center')},
 ]
 
 # Color palette - visually distinct and colorblind-friendly

@@ -45,9 +45,9 @@ cd ..
 
 echo "Setting up Python environment..."
 
-python3 -m venv picosam2_env
+conda create -n sam3 python=3.12
 
-source picosam2_env/bin/activate
+conda activate sam3
 
 python3 setup.py install
 

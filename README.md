@@ -18,16 +18,16 @@ If you find this work useful please cite us with the following:
 @article{picosam3_2026,
       title={PicoSAM3: Real-Time In-Sensor Region-of-Interest Segmentation}, 
       author={Pietro Bonazzi and Nicola Farronato and Stefan Zihlmann and Haotong Qin and Michele Magno},
-      year={2026},
       journal={arXiv, 2603.11917},
-      url={https://arxiv.org/abs/2603.11917}, 
+      year={2026}
 }
 
 @article{picosam2_2025,
-  author={Bonazzi, Pietro and Farronato, Nicola and Zihlmann, Stefan and Qin, Haotong and Magno, Michele},
-  journal={IEEE SENSORS}, 
-  title={PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications}, 
-  year={2025},
+      title={PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications}, 
+      author={Bonazzi, Pietro and Farronato, Nicola and Zihlmann, Stefan and Qin, Haotong and Magno, Michele},
+      journal={IEEE SENSORS}, 
+      year={2025}
+}
 ```
 
 Leave a star to support our open source initiative!⭐️ 

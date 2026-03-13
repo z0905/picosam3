@@ -1,6 +1,6 @@
 # In-Sensor Centered Image Segmentation
 
-### [📜 PicoSAM2](https://arxiv.org/pdf/2506.18807)  | 📜 PicoSAM3 COMING SOON
+### [📜 PicoSAM2](https://arxiv.org/pdf/2506.18807)  | 📜 [PicoSAM3](https://arxiv.org/pdf/2603.11917)
 
 **PicoSAM2** and **PicoSAM3** are minimal, segmentation model distilled from Meta’s SAM 2.1 and SAM3 — purpose-built for deployment on edge devices such as the **Sony IMX500**. It replicates the implicit centered image segmentation while drastically reducing model size and computational cost, making real-time inference feasible on low-power hardware.
 
@@ -15,16 +15,19 @@
 This repository reproduces the results from our article, which received the Outstanding Lecture Award at IEEE Sensors 2025 in Vancouver.
 If you find this work useful please cite us with the following:
 ``` 
-@INPROCEEDINGS{11330465,
+@article{picosam3_2026,
+      title={PicoSAM3: Real-Time In-Sensor Region-of-Interest Segmentation}, 
+      author={Pietro Bonazzi and Nicola Farronato and Stefan Zihlmann and Haotong Qin and Michele Magno},
+      year={2026},
+      journal={arXiv, 2603.11917},
+      url={https://arxiv.org/abs/2603.11917}, 
+}
+
+@article{picosam2_2025,
   author={Bonazzi, Pietro and Farronato, Nicola and Zihlmann, Stefan and Qin, Haotong and Magno, Michele},
-  booktitle={2025 IEEE SENSORS}, 
+  journal={IEEE SENSORS}, 
   title={PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-4},
-  keywords={Visualization;Computational modeling;Memory management;Real-time systems;Encoding;Sensors;Internet of Things;Low latency communication;Smart glasses},
-  doi={10.1109/SENSORS59705.2025.11330465}}
 ```
 
 Leave a star to support our open source initiative!⭐️ 
